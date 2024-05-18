@@ -20,10 +20,10 @@ jobs:
           java-version: '17'
           check-latest: true
           server-id: 'ossrh'
-#          server-username: OSSRH_USERNAME
-#          server-password: OSSRH_PASSWORD
-#          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
-#          gpg-passphrase: GPG_PRIVATE_KEY_PASSPHRASE
+          server-username: OSSRH_USERNAME
+          server-password: OSSRH_PASSWORD
+          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+          gpg-passphrase: GPG_PRIVATE_KEY_PASSPHRASE
           cache: 'maven'
       - name: Build & Deploy
         run: |
