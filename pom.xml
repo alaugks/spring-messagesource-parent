@@ -6,17 +6,17 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.2.3</version>
+        <version>3.2.6</version>
     </parent>
 
     <groupId>io.github.alaugks</groupId>
     <artifactId>spring-messagesource-parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Parent module to provide a custom MessageSource for Spring and Spring Boot.</description>
-    <url>https://github.com/alaugks/spring-messagesource-xliff</url>
+    <url>https://github.com/alaugks/spring-messagesource-parent</url>
 
     <licenses>
         <license>
