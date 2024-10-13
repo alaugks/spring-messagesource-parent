@@ -1,6 +1,6 @@
 # Parent for Custom Spring MessageSource
 
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.alaugks/spring-messagesource-parent.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.alaugks/spring-messagesource-parent/2.0.0)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.alaugks/spring-messagesource-parent.svg?label=Maven%20Central)](https://central.sonatype.com/artifact/io.github.alaugks/spring-messagesource-parent/1.0.1)
 
 
 ## Package to use with the spring-messagesource-parent
